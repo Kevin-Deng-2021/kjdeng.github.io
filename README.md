@@ -1,17 +1,15 @@
-# kjdeng.github.io
 
-# Kevin Deng | MarkDown Demo
+
+# Kevin Deng 
+
 
 
 ---
-__Advertisement :)__
+__About Me__
 
-- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
-  resize in browser.
-- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
-  i18n with plurals support and easy syntax.
+My passion is to innovatively design the processes of generating business intelligence and actionable strategy from data-driven scientific analytics.
 
-You will like those projects!
+With strong experience in Data, I would love to create insightful analysis by using analytical, statistical, visualized, machine learning as tools and weapons. I have developed multiple open source web-based BI and analytical tool to generate business insights with visualization and machine learning. Experience different analytical projects, I excel my Python and R skill, focusing on data analysis (Pandas, Numpy), digital marketing (GA, Adwords, GTM, FB ads), database(SQL, Salesforce SQOL), web-based application(Plotly, Flask), visualization(Tableau, PowerBI, Google Data Studio, D3.js)
 
 ---
 
