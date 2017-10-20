@@ -1,7 +1,11 @@
 
 # Kevin Deng 
 
-![image of me]({{ https://kjdeng.github.io/ }}/assets/professional_photo.jpg =100x120)
+
+
+![image of me](https://kjdeng.github.io/assets/professional_photo.jpg =120x158)
+
+
 
 
 
