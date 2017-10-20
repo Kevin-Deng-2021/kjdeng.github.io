@@ -1,21 +1,12 @@
 
 
 
-
-
-
-
 # Kevin Deng 
 
-
-
-![](https://kjdeng.github.io/assets/professional_photo.jpg =100x135)
-
+<img src="https://kjdeng.github.io/assets/professional_photo.jpg" height="135px" width="100px" >
 
 
 
-
----
 __About Me__
 
 My passion is to innovatively design the processes of generating business intelligence and actionable strategy from data-driven scientific analytics.
