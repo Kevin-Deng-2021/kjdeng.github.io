@@ -9,7 +9,7 @@
 
 
 
-![image of me](https://kjdeng.github.io/assets/professional_photo.jpg)
+![](https://kjdeng.github.io/assets/professional_photo.jpg =100x135)
 
 
 
