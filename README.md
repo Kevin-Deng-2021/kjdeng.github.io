@@ -3,7 +3,7 @@
 
 # Kevin Deng 
 
-<img src="https://kjdeng.github.io/assets/professional_photo.jpg" height="135px" width="100px" >
+<img src="https://kjdeng.github.io/assets/professional_photo.jpg" height="300px" width="220px" >
 
 
 
