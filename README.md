@@ -1,8 +1,9 @@
 
-
 # Kevin Deng 
 
-![image of me]({{ https://kjdeng.github.io/ }}/assets/professional_photo.jpg)
+![image of me]({{ https://kjdeng.github.io/ }}/assets/professional_photo.jpg =100x120)
+
+
 
 ---
 __About Me__
@@ -12,6 +13,9 @@ My passion is to innovatively design the processes of generating business intell
 With strong experience in Data, I would love to create insightful analysis by using analytical, statistical, visualized, machine learning as tools and weapons. I have developed multiple open source web-based BI and analytical tool to generate business insights with visualization and machine learning. Experience different analytical projects, I excel my Python and R skill, focusing on data analysis (Pandas, Numpy), digital marketing (GA, Adwords, GTM, FB ads), database(SQL, Salesforce SQOL), web-based application(Plotly, Flask), visualization(Tableau, PowerBI, Google Data Studio, D3.js)
 
 ---
+
+
+
 
 # h1 Heading 8-)
 ## h2 Heading
