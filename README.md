@@ -22,6 +22,7 @@ With strong experience in Data, I would love to create insightful analysis by us
 
 
 + Predict vehicle sales for clients by using Time Series Model and Machine Learning.+ Establish data-driven KPI and strategy by developing management BI tool.+ Optimize business performance by visualizing campaigns’ quality on websites.
+<img src="https://kjdeng.github.io/assets/data_learning_timeline.png" height="600px" width="600px" >
 
 
 
