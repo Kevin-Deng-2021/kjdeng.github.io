@@ -9,8 +9,6 @@
 <img src="https://kjdeng.github.io/assets/professional_photo.jpg" height="330px" width="240px" > | <img src="https://kjdeng.github.io/assets/data_learning_timeline.png" height="460px" width="600px" >
 ## Kevin Deng 
 
-____
-
 
 __About Me__
 
