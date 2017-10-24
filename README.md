@@ -10,8 +10,8 @@
 <br>
 <br>
 
+
 ## Kevin Deng 
----
 
 __About Me__
 
@@ -40,7 +40,7 @@ __Contact Me__
 
 
 ## Analytics & Data
----
+
 
 ### 30 Days Predicting Analysis and Visualization
 
