@@ -6,9 +6,12 @@
 
 
 
-<img src="https://kjdeng.github.io/assets/professional_photo.jpg" height="320px" width="240px" > | <img src="https://kjdeng.github.io/assets/data_learning_timeline.png" height="460px" width="600px" >
+<img src="https://kjdeng.github.io/assets/professional_photo.jpg" height="330px" width="250px" > | <img src="https://kjdeng.github.io/assets/data_learning_timeline.png" height="520px" width="700px" >
+<br>
+<br>
+
 ## Kevin Deng 
-<br><br>
+---
 
 __About Me__
 
@@ -32,11 +35,12 @@ __Contact Me__
 [GitHub](https://github.com/kjdeng/)
 <br>
 [Stack Overflow](https://stackoverflow.com/users/7741793/kevin-deng)
-
+<br>
+<br>
 
 
 ## Analytics & Data
-
+---
 
 ### 30 Days Predicting Analysis and Visualization
 
