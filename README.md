@@ -140,13 +140,12 @@ Plolty.js save us very much time on developing HTML, CSS, Javasacript for plotin
 	table_chart = ff.create_table(tota_sold_df)
 	graphs = [table_chart]
 	graphJSON = json.dumps(graphs, cls=plotly.utils.PlotlyJSONEncoder)
-	
-	
- 
+	 
 <img src="https://kjdeng.github.io/assets/plotly_forecasting_unreal.png" height="330px" width="1000px" >
+<br>
+As you can see, the forecasting fluctuate greatly and the accumulative number is decreaseing from time to time, which does not make sense in term of business sales. As we know, ARIMA provides statistical model does not limit on positive integer. However, we can still use sorting algorithm to apply the most precise model(lowest AIC number). Now, the 30 days prediction provides very powerful short-term predicting withing a month. It also shows the previous month's data to diffreciate the increase or decrease within days. 
 
-
-
+<img src="https://kjdeng.github.io/assets/plotly_forecasting_real.png" height="330px" width="1000px" >
 
 
 
