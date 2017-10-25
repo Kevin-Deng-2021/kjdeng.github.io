@@ -51,16 +51,14 @@ In order to get 30 days period of time, library 'datatime' in Python provides mu
 	
 	import datatime
 	
-	def get_previous_date(start_date):
-		date = datetime.datetime.strptime(start_date, '%Y-%m-%d')
-		first_day_of_current_month = date.replace(day=1)
-		last_day_of_previous_month = first_day_of_current_month - timedelta(days=1)
-		first_day_of_previous_month = last_day_of_previous_month.replace(day=1)
-		mid_day_of_previous_month = last_day_of_previous_month.replace(day=16)
-		past_30_days = date - timedelta(days=30)
-		return first_day_of_previous_month.strftime('%Y-%m-%d'),
-			mid_day_of_previous_month.strftime('%Y-%m-%d'), past_30_days.strftime('%Y-%m-%d')
-
+	date = datetime.datetime.strptime(start_date, '%Y-%m-%d')
+	first_day_of_current_month = date.replace(day=1)
+	last_day_of_previous_month = first_day_of_current_month - timedelta(days=1)
+	first_day_of_previous_month = last_day_of_previous_month.replace(day=1)
+	mid_day_of_previous_month = last_day_of_previous_month.replace(day=16)
+	past_30_days = date - timedelta(days=30)
+	
+	
 <br>
 
 By using the time series prediction, Pyflux in Python is very useful tool. For instance, autoregressive integrated moving average (ARIMA) model provides the choice of 'ar' and 'ma', so you can manually or automattically adjust depends on previous data trend. Try to get relatively  as lowest number of AIC as possible.
@@ -73,6 +71,7 @@ In this case, we predict next 31 days to forecast the short-term future's number
 	MLE_fit = model.fit("MLE")
 	AIC = MLE_fit.aic
 	df_predict = model.predict(h=31, intervals=False)
+
 <br>
 
 After we collect current data, previous data, and predicting data, now, we can try to show it logically containing business intelligence and insights for actionalble move.
@@ -82,18 +81,17 @@ Plolty.js save us very much time on developing HTML, CSS, Javasacript for plotin
 	from plotly.graph_objs import *
 		
 	trace_previous_month = {
-		  "x": df5.index.tolist() , 
-		  "y": df7['sold'].tolist()[:len(df5.index.tolist())], 
-		  "mode": "lines", 
-		  "name": "Previous Month Sales", 
-		  "type": "scatter", 
-		  "uid": "e4bdb6",
-		  "visible": True,
-		  "line" : {
-	        "color" : "('rgb(0, 128, 255)')",
-	        "width" : 3,
-	  		}
-		}
+	"x": df5.index.tolist() , 
+	"y": df7['sold'].tolist()[:len(df5.index.tolist())], 
+	"mode": "lines", 
+	"name": "Previous Month Sales", 
+	"type": "scatter", 
+	"uid": "e4bdb6",
+	"visible": True,
+	"line" : {
+	"color" : "('rgb(0, 128, 255)')",
+	"width" : 3}
+	}
 	trace_month = {
 	  "x": df5.index.tolist() , 
 	  "y": df5['sold'].tolist(), 
@@ -104,9 +102,9 @@ Plolty.js save us very much time on developing HTML, CSS, Javasacript for plotin
 	  "uid": "e4bdb6",
 	  "visible": True,
 	  "line" : {
-        "color" : "('rgb(205, 12, 24)')",
-        "width" : 4,
-        "dash" : 'dash'}
+		"color" : "('rgb(205, 12, 24)')",
+		"width" : 4,
+		"dash" : 'dash'}
 	}
 	trace_real = {
 	  "x": df6.index.tolist() , 
@@ -118,9 +116,9 @@ Plolty.js save us very much time on developing HTML, CSS, Javasacript for plotin
 	  "uid": "e4bdb6",
 	  "visible": True,
 	  "line" : {
-        "color" : "('rgb(102, 0, 0)')",
-        "width" : 4
-        }
+		"color" : "('rgb(102, 0, 0)')",
+		"width" : 4
+		}
 	}
 	trace10 = {
 	  "x": df5.index.tolist(), 
@@ -162,6 +160,13 @@ As you can see, the forecasting fluctuate greatly and the accumulative number is
 
 
 	
+
+
+
+
+
+
+
 
 
 
