@@ -1,7 +1,7 @@
 ---
 layout: page
-title: about
-permalink: /about Kevin Deng/
+title: about Kevin Deng
+permalink: /about/
 ---
 
 <img class="col one right" src="/img/profile_photo.jpg">
