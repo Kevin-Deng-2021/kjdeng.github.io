@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about
-permalink: /about/
+permalink: /about Kevin Deng/
 ---
 
 <img class="col one right" src="/img/profile_photo.jpg">
@@ -23,6 +23,6 @@ With strong experience in Data, I would love to create insightful analysis by us
 	<a href="https://stackoverflow.com/users/7741793/kevin-deng?tab=profile" target="_blank"><i class="fa fa-stack-overflow"></i></a></span>
 
 <div class="col three caption">
-	Thank you very much for your reading.
+	Welcome to contact me!
 </div>
 
