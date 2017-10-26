@@ -21,6 +21,8 @@ With strong experience in Data, I would love to create insightful analysis by us
 	<a href="https://www.linkedin.com/in/kjdeng/" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="https://stackoverflow.com/users/7741793/kevin-deng?tab=profile" target="_blank"><i class="fa fa-stack-overflow"></i></a>
 
+
+
 </span>
 
 <div class="col three caption">
