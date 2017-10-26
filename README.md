@@ -11,7 +11,7 @@
 <br>
 
 
-## Kevin Deng 
+# Kevin Deng 
 
 __About Me__
 
@@ -40,10 +40,10 @@ __Contact Me__
 <br>
 
 
-## Analytcal Project
+# Analytcal Project
 
 
-### Predicting Analysis and Visualization
+### 1. Predicting Analysis and Visualization
 
 <img src="https://kjdeng.github.io/assets/pandas_logo.png" height="50px" width="200px" >  <img src="https://kjdeng.github.io/assets/plotly_logo.png" height="50px" width="150px" > <img src="https://kjdeng.github.io/assets/pyflux_logo.jpeg" height="60px" width="65px" >
 
@@ -122,21 +122,6 @@ Plolty.js save us very much time on developing HTML, CSS, Javasacript for plotin
 		"color" : "('rgb(102, 0, 0)')",
 		"width" : 4
 		}
-	}
-	trace10 = {
-	  "x": df5.index.tolist(), 
-	  "y": [max(df5['sold'].tolist())]*len(df5.index.tolist()),
-	  "fill": "tozeroy", 
-	  "fillcolor": "rgba(208, 241, 244, 0.5)", 
-	  "hoverinfo": "none", 
-	  "mode": "none", 
-	  "name": "Shading", 
-	  "opacity": 0.2, 
-	  "showlegend": False, 
-	  "type": "scatter", 
-	  "uid": "122dd9", 
-	  "visible": True, 
-	  "text" : "Forecast"
 	}
 	table_chart = ff.create_table(tota_sold_df)
 	graphs = [table_chart]
