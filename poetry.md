@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /poetry/
-title: poetry
-description: Showcase your writing, short stories, or poems. Replace this text with your description.
+title: live
+description: Share with you the happiness of daily life.
 ---
 
 <ul class="post-list">
