@@ -16,6 +16,8 @@ With strong experience in Data, I would love to create insightful analysis by us
 <hr/>
 <img src="https://kjdeng.github.io/img/data_learning_timeline.png" height="520px" width="700px" >
 <br/>
+# Welcome to contact me
+
 <span class="contacticon center">
 	<a href="mailto:kjdeng@u.northwestern.edu"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/kjdeng/" target="_blank"><i class="fa fa-github-square"></i></a>
@@ -23,6 +25,6 @@ With strong experience in Data, I would love to create insightful analysis by us
 	<a href="https://stackoverflow.com/users/7741793/kevin-deng?tab=profile" target="_blank"><i class="fa fa-stack-overflow"></i></a></span>
 
 <div class="col three caption">
-	Welcome to contact me!
+	Actively looking for new opportunity, Data Scientist/Analyst related role now.
 </div>
 

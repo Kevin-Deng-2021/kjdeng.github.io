@@ -2,7 +2,7 @@
 layout: page
 permalink: /poetry/
 title: live
-description: Share with you the happiness of daily life.
+description: Share with you the happiness of life and this beautiful world.
 ---
 
 <ul class="post-list">
