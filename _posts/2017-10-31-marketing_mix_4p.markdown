@@ -12,12 +12,12 @@ When I studied Northwestern, there is a course I really love is "Marketing Mix A
 
 <br>
 
-Category  |  Typical Marketing Decision
-:----------- | -----------:
-Product        |        Product Design, Branding, Packaging, Services, Warranties, Guarantees
-Price         |        Price Strategy, Price Tatics, Price-Setting, Allowances, Discounts, Payment terms
-Place         | Distribution, Franchising, Market Coverage, Location, Inventory, Transportation
-Promotion     | Advertising, PR, Message Strategy, Channel, Media, Communication
+|Category  |  Typical Marketing Decision|
+|:----------- | -----------:|
+|Product       |        Product Design, Branding, Packaging, Services, Warranties, Guarantees|
+|Price         |        Price Strategy, Price Tatics, Price-Setting, Allowances, Discounts, Payment terms|
+|Place         | Distribution, Franchising, Market Coverage, Location, Inventory, Transportation|
+|Promotion     | Advertising, PR, Message Strategy, Channel, Media, Communication|
 
 Source: https://en.wikipedia.org/wiki/Marketing_mix
 
