@@ -8,7 +8,7 @@ permalink: /about/
 
 <br/>
 
-A guy born and raised in Taipei, now based in Chicago, loves data analytics, travalling, and basketball. His passion is to innovatively design processes which will generate business intelligence or actionable strategy from data-driven analytical methodology. 
+A guy born and raised in Taipei, live in Chicago, IL currently. He loves data analytics, travalling, and basketball. His passion is to innovatively design processes which will generate business intelligence or actionable strategy from data-driven analytical methodology. 
 
 With strong experience in Data, he would love to create insightful analysis by using analytical, statistical, visualized, machine learning as tools and weapons. He have developed multiple open source web-based BI and analytical tool to generate business insights with visualization and machine learning. Experience different analytical projects, he excel my Python and R skill, focusing on data analysis (Pandas, Numpy), digital marketing (GA, Adwords, GTM, FB ads), database(SQL, Salesforce SQOL), web-based application(Plotly, Flask), visualization(Tableau, PowerBI, Google Data Studio, D3.js)
 
