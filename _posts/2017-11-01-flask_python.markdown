@@ -4,7 +4,8 @@ title:  Python Flask Analytical Application
 date:   2017-11-01 15:40:16
 description: Use Flask, the website framework in Python, to build up web based analytical application 
 ---
-I have used Flask for several analytical project. It is a light version of website framework. As an analytics, I do not want to spend too much time on building a fast, strong, and safe framework since my application is internal and explicit for specific users. Compared to Django for Python, Flask is much easier to deploy, and most of the time, it is much easier to debug the analysis confliction or problem. 
+<br>
+I have used Flask for several analytical projects. It is a very light version of website framework. As an analytics, I do not want to spend too much time on building a fast, strong, and safe framework since my application is internal and explicit for specific users. Compared to Django for Python, Flask is much easier to deploy, and most of the time, it is relatively easier to debug the wrong calculation or problem. 
 
 In order to start using Flask, you can think it as a software package, which need to be installed and call at the beginning. 	
 	
