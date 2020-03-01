@@ -26,6 +26,15 @@ $on-laptop:        1200px;
 
 
 
+
+.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+};
+
 // Using media queries with like this:
 // @include media-query($palm) {
 //     .wrapper {
