@@ -25,14 +25,14 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/IMG_sf_1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/IMG_sf_2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/IMG_flower_4.jpg" alt="" title="example image"/>
+	<img class="col one rotate90" src="{{ site.baseurl }}/img/IMG_sf_2.jpg" alt="" title="example image"/>
+	<img class="col one rotate90" src="{{ site.baseurl }}/img/IMG_flower_4.jpg" alt="" title="example image"/>
 </div>
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/IMG_bd_1.jpg" alt="" title="example image"/>
 	<img class="col one" src="{{ site.baseurl }}/img/IMG_bd_2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/IMG_chi_1.jpg" alt="" title="example image"/>
+	<img class="col one rotate90" src="{{ site.baseurl }}/img/IMG_chi_1.jpg" alt="" title="example image"/>
 </div>
 
 <div class="col three caption">
@@ -41,7 +41,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/IMG_chi_2.jpg" alt="" title="example image"/>
+	<img class="col three rotate90" src="{{ site.baseurl }}/img/IMG_chi_2.jpg" alt="" title="example image"/>
 </div>
 
 
@@ -54,7 +54,7 @@ check! You can also put regular text between your rows of images. Say you wanted
 
 <div class="img_row">
 	<img class="col two" src="{{ site.baseurl }}/img/IMG_sf_1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/IMG_sf_2.jpg" alt="" title="example image"/>
+	<img class="col one rotate90" src="{{ site.baseurl }}/img/IMG_sf_2.jpg" alt="" title="example image"/>
 </div>
 
 
