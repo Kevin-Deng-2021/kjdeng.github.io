@@ -56,7 +56,7 @@ check! You can also put regular text between your rows of images. Say you wanted
 	<img class="col one rotate90" src="{{ site.baseurl }}/img/IMG_sf_2.jpg" alt="" title="example image"/>
 </div>
 
-
+<br/>
 <div class="col three caption">
 	You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
