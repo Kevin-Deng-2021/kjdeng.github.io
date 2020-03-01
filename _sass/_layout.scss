@@ -243,7 +243,7 @@ background: $theme-color;
 .img_row{
 height: $img_height;
 width: 100%;
-overflow: hidden;
+// overflow: hidden;
 box-sizing:border-box;
 padding: $img_spacing;
 }
