@@ -38,11 +38,11 @@ To give your project a background in the portfolio page, just add the img tag to
 <div class="col three caption">
 	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
-
+<br/>
 <div class="img_row">
 	<img class="col three rotate90" src="{{ site.baseurl }}/img/IMG_chi_2.jpg" alt="" title="example image"/>
 </div>
-
+<br/>
 
 <div class="col three caption">
 	This image can also have a caption. It's like magic. 
