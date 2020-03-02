@@ -16,7 +16,7 @@ Currently he is working in local experience eCommerce, Groupon, and focus on fra
 He love to create insightful analysis by using big data, statistics, visualized tool, and machine learning to crack projects. 
 His experience includes developing python Flask web-based BI and ARIMA time-series analysis to predicts sales and return on investment in digital marketing (GA, Adwords, GTM, FB ads)
 He is excel in using multiple local and cloud database such as MySQL, salesforce SQOL, Teradata, and Snowflake. 
-Cloud Datawarehouse, Python, R, Tableau, and Scikit Learn/ML models are all kevin's favorite weapons to crash the challenging projects.
+Cloud Datawarehouse, Python, R, Tableau, and Scikit Learn/ML models are all Kevin's favorite weapons to crash the challenging projects.
 Most recent year, he start discovering the opportunity from data analysis and front end development (HTML, D3.js, Jekyll, css) and try to tell interesting and inspiring stores to people. 
 
 <br/>
