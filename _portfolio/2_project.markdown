@@ -17,6 +17,27 @@ To give your project a background in the portfolio page, just add the img tag to
 	---
 
 
+{% include googleDrivePlayer.html id=18hT3QzLoGVdqD6nX7rAcgvXqD3txz_vo/view %}
+
+{% include googleDrivePlayer.html id=1mt_4hCa-Dszgd7VGY7CwVr3YCSBC1UiA/view %}
+
+
+
+https://drive.google.com/file/d/18hT3QzLoGVdqD6nX7rAcgvXqD3txz_vo/view
+https://drive.google.com/file/d/1mt_4hCa-Dszgd7VGY7CwVr3YCSBC1UiA/view
+https://drive.google.com/file/d/14rv3_R_75xXZNDMVQYHYMIoWphyaUr4N/view
+https://drive.google.com/file/d/1YyRiBGeWMbTAqT-M16pE1XZA_WJhEBRY/view
+
+https://drive.google.com/drive/u/1/folders/1bUKvSCBZE-OjUKF-zilVZSd5vdvduQ0W
+
+
+
+
+
+
+
+
+
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
 	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
