@@ -17,6 +17,18 @@ To give your project a background in the portfolio page, just add the img tag to
 	---
 
 
+
+
+<div>
+  <iframe
+      width="640"
+      height="480"
+      src="https://drive.google.com/file/d/18hT3QzLoGVdqD6nX7rAcgvXqD3txz_vo/view"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+</div>
+
 {% include googleDrivePlayer.html id=18hT3QzLoGVdqD6nX7rAcgvXqD3txz_vo/view %}
 
 {% include googleDrivePlayer.html id=1mt_4hCa-Dszgd7VGY7CwVr3YCSBC1UiA/view %}
@@ -26,7 +38,12 @@ To give your project a background in the portfolio page, just add the img tag to
 {% include googleDrivePlayer.html id=1YyRiBGeWMbTAqT-M16pE1XZA_WJhEBRY/view %}
 
 
+https://drive.google.com/file/d/18hT3QzLoGVdqD6nX7rAcgvXqD3txz_vo/view
+https://drive.google.com/file/d/1mt_4hCa-Dszgd7VGY7CwVr3YCSBC1UiA/view
+https://drive.google.com/file/d/14rv3_R_75xXZNDMVQYHYMIoWphyaUr4N/view
+https://drive.google.com/file/d/1YyRiBGeWMbTAqT-M16pE1XZA_WJhEBRY/view
 
+https://drive.google.com/drive/u/1/folders/1bUKvSCBZE-OjUKF-zilVZSd5vdvduQ0W
 
 
 <div class="img_row">
