@@ -24,7 +24,7 @@ Most recent year, he start discovering the opportunity from data analysis and fr
 <img src="https://kjdeng.github.io/img/data_learning_timeline.png" height="520px" width="700px" >
 <br/>
 <br/>
-# Welcome to connect with me! 
+# Welcome to connect with me on LinkedIn!
 
 <span class="contacticon center">
 	<a href="mailto:kjdeng@u.northwestern.edu"><i class="fa fa-envelope-square"></i></a>
