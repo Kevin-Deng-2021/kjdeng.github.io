@@ -32,23 +32,32 @@ With micro-partition infrastructure, the service can ‘CREATE OR REPLACE’ a t
 It even can ‘time travel’ datasets, database, table, so the user can get data at the specific past moment (hours to days.) 
 
 <blockquote>
-	<li>• The cloud now offers attractive options with better economics, such as pay-as-you-go which
+	<li>The cloud now offers attractive options with better economics, such as pay-as-you-go which
 is easier to justify and budget, better logistics (streamlined administration and management),
 and better scale (elasticity and the ability to expand a cluster within minutes).</li>
-	<li>• Many enterprises are fully embracing a cloud-based analytics strategy and making it
+<br/>
+	<li>Many enterprises are fully embracing a cloud-based analytics strategy and making it
 accessible across their current infrastructure and data ecosystems. Many others are
 adopting it as a secondary platform for purposes such as disaster recovery and offloading
 analytic and data transformation workloads.</li>
-	<li>• Depending on needs, customers may choose to weight the Disruption Vectors differently
+<br/>
+	<li>Depending on needs, customers may choose to weight the Disruption Vectors differently
 than we have here. Ultimately all of these databases are viable. You should know what
 you’re acquiring, what you are missing and what it is costing you.</li>
-	<li>• Being “born in the cloud” does appear to offer advantages. While on-premises-first
+<br/>
+	<li>Being “born in the cloud” does appear to offer advantages. While on-premises-first
 development brings a robust database to the table, not all functions are always part of the
 cloud solution and not all of the organizations behind them have made the transition to
 cloud.</li>
-	<li>• Down the road, cloud database capabilities will likely include being able to dynamically spin
+<br/>
+	<li>Down the road, cloud database capabilities will likely include being able to dynamically spin
 up a cloud instance, migrate workloads, and synchronize small-scale data on the fly.</li>
+<br/>
 	— William McKnight
 </blockquote>
+
+<div>
+	<img class="col three caption" src="{{ site.baseurl }}/img/datawarehouse_comparing.png" >
+</div>
 
 Snowflake support with JDBC or ODBC connection, which means you can use normal SQL interface software to connect. It’s like a teradata studio regarding Teradata. You can use ‘SQL Assistant’, ‘DBeaver’ to connect.
