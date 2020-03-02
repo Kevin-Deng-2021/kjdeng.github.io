@@ -2,7 +2,7 @@
 layout: post
 title: Project
 description: a project with a background image
-img: /img/2.jpg
+img: /img/IMG_bball.jpg
 ---
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
@@ -47,7 +47,9 @@ width="640"
 height="480">
 </iframe>
 
-
+<div class="img_row">
+	<img class="col three caption" src="{{ site.baseurl }}/img/IMG_bball.jpg" alt="" title="example image"/>
+</div>
 
 
 <div class="img_row">
