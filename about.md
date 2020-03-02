@@ -8,17 +8,23 @@ permalink: /about/
 
 <br/>
 
-A guy born and raised in Taipei, live in Chicago, IL currently. He loves data analytics, travalling, and basketball. His passion is to innovatively design processes which will generate business intelligence or actionable strategy from data-driven analytical methodology. 
+A guy born and raised in Taipei, work in Chicago currently. 
+He loves data science, traveling, and basketball. 
+His passion is to innovatively design solution on business intelligence or actionable strategy from data-driven analytical methodology. 
 
-With strong experience in Data, he would love to create insightful analysis by using analytical, statistical, visualized, machine learning as tools and weapons. He have developed multiple open source web-based BI and analytical tool to generate business insights with visualization and machine learning. Experience different analytical projects, he excel my Python and R skill, focusing on data analysis (Pandas, Numpy), digital marketing (GA, Adwords, GTM, FB ads), database(SQL, Salesforce SQOL), web-based application(Plotly, Flask), visualization(Tableau, PowerBI, Google Data Studio, D3.js)
-
+Currently he is working in local experience eCommerce, Groupon, and focus on fraud and payment services. 
+He love to create insightful analysis by using big data, statistics, visualized tool, and machine learning to crack projects. 
+His experience includes developing python Flask web-based BI and ARIMA time-series analysis to predicts sales and return on investment in digital marketing (GA, Adwords, GTM, FB ads)
+He is excel in using multiple local and cloud database such as MySQL, salesforce SQOL, Teradata, and Snowflake. 
+Cloud Datawarehouse, Python, R, Tableau, and Scikit Learn/ML models are all kevin's favorite weapons to crash the challenging projects.
+Most recent year, he start discovering the opportunity from data analysis and front end development (HTML, D3.js, Jekyll, css) and try to tell interesting and inspiring stores to people. 
 
 <br/>
 <hr/>
 <img src="https://kjdeng.github.io/img/data_learning_timeline.png" height="520px" width="700px" >
 <br/>
 <br/>
-# Welcome to contact me!
+# Welcome to connect with me! 
 
 <span class="contacticon center">
 	<a href="mailto:kjdeng@u.northwestern.edu"><i class="fa fa-envelope-square"></i></a>
