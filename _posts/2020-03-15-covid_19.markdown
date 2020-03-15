@@ -1,0 +1,16 @@
+---
+layout: post
+title:  Johns Hopkins Covid-19 Global Dash
+date:   2020-03-01 10:48:16
+description: Corona Virus
+
+---
+
+
+Johns Hopkins Center for Systems Science and Engineering
+
+### Covid-19 Global Dash
+
+
+<iframe width="650" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="2019-nCoV" 
+src="/gisanddata.maps.arcgis.com/apps/Embed/index.html?webmap=14aa9e5660cf42b5b4b546dec6ceec7c&extent=77.3846,11.535,163.5174,52.8632&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe>
