@@ -13,4 +13,4 @@ Johns Hopkins Center for Systems Science and Engineering
 
 <br>
 <br>
-<iframe width="1450" height="800" frameborder="5" scrolling="no" marginheight="0" marginwidth="0" title="2019-nCoV" src="https://gisanddata.maps.arcgis.com/apps/Embed/index.html?webmap=14aa9e5660cf42b5b4b546dec6ceec7c&extent=41.3846,10.535,-177.5174,50.8632&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe>
+<iframe width="1150" height="600" frameborder="5" scrolling="no" marginheight="0" marginwidth="0" title="2019-nCoV" src="https://gisanddata.maps.arcgis.com/apps/Embed/index.html?webmap=14aa9e5660cf42b5b4b546dec6ceec7c&extent=41.3846,10.535,-177.5174,50.8632&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe>
