@@ -17,6 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
 	---
 
 
+<!-- 
 <div class="img_row">
 		<img class="col one rotate90" src="{{ site.baseurl }}/img/IMG_flower_1.jpg" alt="" title="example image"/>
 		<img class="col one rotate90" src="{{ site.baseurl }}/img/IMG_flower_2.jpg" alt="" title="example image"/>
@@ -63,6 +64,8 @@ check! You can also put regular text between your rows of images. Say you wanted
 
 
 <br/><br/><br/>
+ -->
+
 
 
 The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
