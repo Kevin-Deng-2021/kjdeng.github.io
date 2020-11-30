@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project
-description: a project with a background image
+title: Google Cloud & AWS
+description: How to leverage data to cloud services 
 img: /img/4.jpg
 ---
 
