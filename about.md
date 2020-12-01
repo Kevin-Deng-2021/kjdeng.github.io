@@ -8,11 +8,11 @@ permalink: /about/
 
 <br/>
 
-A guy born and raised in Taipei, work in Chicago currently. 
-He loves data science, traveling, and basketball. 
+A guy born and raised in Taipei, work in Chicago just pass my fifth year.  
+He loves data, traveling, and basketball. 
 His passion is to innovatively design solution on business intelligence or actionable strategy from data-driven analytical methodology. 
 
-Currently he is working in local experience eCommerce, Groupon, and focus on fraud and payment services. 
+Currently he is working in local experience eCommerce, Groupon, and focus on consumer fraud or payment fraud for Groupon's billion transaction services 
 He love to create insightful analysis by using big data, statistics, visualized tool, and machine learning to crack projects. 
 His experience includes developing python Flask web-based BI and ARIMA time-series analysis to predicts sales and return on investment in digital marketing (GA, Adwords, GTM, FB ads)
 He is excel in using multiple local and cloud database such as MySQL, salesforce SQOL, Teradata, and Snowflake. 
