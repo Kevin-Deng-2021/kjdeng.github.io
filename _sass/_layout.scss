@@ -245,7 +245,7 @@ background: $theme-color;
 height: 100%;
 width: 100%;
 // overflow: hidden;
-box-sizing:border-box;
+box-sizing:content-box;
 padding: $img_spacing;
 }
 .col{ 
