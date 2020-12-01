@@ -284,7 +284,9 @@ font-size: $caption_font_size;
     transform: rotate(90deg);
 }
 
-
+body, html {
+    height: 100%;
+}
 /* The hero image */
 .hero-image {
   /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
